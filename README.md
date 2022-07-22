@@ -16,7 +16,7 @@ Meu nome é **Raquel**, tenho **25 anos**, moro em **São Paulo - SP**. Estudo n
 
  :video_game: **Hobbies -** Jogar League of Legends e The Sims / Praticar Yoga / Ler Cartas de Tarot
 
- :cloud: **Um Sonho - ** Conhecer o Egito
+ :cloud: **Um Sonho -** Conhecer o Egito
 
 
 
